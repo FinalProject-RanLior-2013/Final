@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sm@rtDroid</string>
+
+    <!-- SplashScreenActivity -->
+    <string name="title_activity_spalsh_screen">SpalshScreen</string>
+
+    <!-- RulesActivity -->
+    <string name="title_activity_rule">Sm@rtDroid</string>
+    <string name="add_rule">Add Rule</string>
+    <string name="delete_rule">Delete Rule</string>
+
+    <!-- RuleEditorAcitvity -->
+    <string name="title_activity_rule_editor">Rule Editor</string>
+    <string name="save_rule">Save Rule</string>
+
+    <!-- TriggerEditorFragment -->
+    <string name="add_trigger">Add Trigger</string>
+    <string name="delete_trigger">Delete Trigger</string>
+
+    <!-- ActionEditorFragment -->
+    <string name="add_action">Add Action</string>
+    <string name="delete_action">Delete Action</string>
+
+    <!-- RuleEditorFragment -->
+    <string name="rule_name">NAME</string>
+    <string name="rule_description">DESCRIPTION</string>
+
+    <!-- TriggerSelectActivity -->
+    <string name="title_activity_trigger_select">Select Trigger</string>
+
+    <!-- ActionSelectActivity -->
+    <string name="title_activity_action_select">Select Action</string>
+
+    <!-- All TriggerEditorActivities -->
+    <string name="save_trigger">Save Trigger</string>
+    <string name="title_activity_battery_level_trigger_editor">Battery Level Trigger Editor</string>
+    <string name="title_activity_battery_plugged_trigger_editor">Battery Plugged Trigger Editor</string>
+    <string name="title_activity_boot_completed_trigger_editor">BootCompletedTriggerEditorActivity</string>
+    <string name="title_activity_location_proximity_trigger_editor">LocationProximityTriggerEditorActivity</string>
+    <string name="title_activity_ringer_mode_trigger_editor">Ringer Mode Trigger Editor</string>
+    <string name="title_activity_wired_headset_plugged_trigger_editor">WiredHeadsetPluggedTriggerEditorActivity</string>
+
+    <!-- All ActionEditorActivities -->
+    <string name="save_action">Save Action</string>
+    <string name="title_activity_change_bluetooth_state_action_editor">ChangeBluetoothStateActionEditor</string>
+    <string name="title_activity_change_wifistate_action_editor">ChangeWIFIStateActionEditor</string>
+    <string name="title_activity_modify_ringer_mode_action_editor">ModifyRingerModeActionEditorActivity</string>
+    <string name="title_activity_modify_volume_action_editor">ModifyVolumeActionEditorActivity</string>
+    <string name="title_activity_notification_action_editor">NotificationActionEditorActivity</string>
+    <string name="title_activity_set_wallpaper_action_editor">SetWallpaperActionEditorActivity</string>
+    <string name="title_activity_start_app_action_editor_acivity">StartAppActionEditorAcivity</string>
+
+</resources>
